@@ -1,5 +1,5 @@
 <h1 aling='center' >Olá tudo bem, seja bem vindo(a) ao meu GitHub!!</h1>
-<h3 align="center">Muito prazer, meu nome é Nicolas, tenho 25 anos e atualmente sou estudante de tecnologia e desenvolvedor em formação no curso de análise e desenvolvimento de sistemas, atualmente focado em projetos acadêmicos e no desenvolvimento de aplicativos mobile, Sou apaixonado por aprender e criar soluções que facilitem o dia a dia das pessoas, sempre buscando melhorar minhas habilidades e conhecimento no mundo da tecnologia.</h3>
+<h3 align="center">Muito prazer, meu nome é Nicolas, tenho 26 anos e atualmente sou estudante de tecnologia e desenvolvedor em formação no curso de análise e desenvolvimento de sistemas, atualmente focado em projetos acadêmicos e no desenvolvimento de aplicativos mobile, Sou apaixonado por aprender e criar soluções que facilitem o dia a dia das pessoas, sempre buscando melhorar minhas habilidades e conhecimento no mundo da tecnologia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolas-colman" alt="nicolas-colman" /></a> </p>
 
